@@ -1,0 +1,50 @@
+body {
+	font-family: Garamond, sans-serif;
+	font-size: 25px;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	color: #333;
+	
+}
+
+
+header h1 {
+	background-color: #0726B5;
+	font-size: 45px;
+	padding: 10px;
+	color: white;
+	text-align: center;
+	font-family: Garamond, sans-serif;
+}
+
+
+/*Profile Pic*/
+profile-pic{
+	margin: 20px 0;
+
+}
+
+/*Links*/
+a:link, a:visited {
+	background-color: #0726B5;
+	color: white;
+	padding: 15px 25px;
+	font-size: 20px;
+	font-family: Helvetica, sans-serif;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	border-radius: 5px;
+}
+
+a:hover, a:active {
+	background-color: #CDF7F2;
+	color: #0726B5;
+}
+
+/* Image Centering */
+img {
+	display: block;
+	margin: 0 auto;
+}
